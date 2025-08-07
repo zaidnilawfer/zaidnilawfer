@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working at cubosystems as an intern.
-- 🌱 I’m currently learning Spring boot.
-- 🤔 I’m looking for help with Spring boot.
+- 🔭 I’m currently working at X4 Digital labs as an Associate software engineer.
+- 🌱 I’m currently learning Flutter.
+- 🤔 I’m looking for help with Flutter.
 - 📫 How to reach me: zaidnilawfer@gmail.com
 
 <!--
